@@ -1,5 +1,5 @@
 # Lorem Ipsum - uppgift
----
+
 ## Instruktioner
 1. Klicka på **Clone or download** och välj sedan **Download ZIP**
 2. Öppna index.html i din editor (ex. Visual Studio Code).
