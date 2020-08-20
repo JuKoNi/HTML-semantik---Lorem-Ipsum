@@ -1,7 +1,7 @@
 # Lorem Ipsum - uppgift
 
 ## Instruktioner
-1. Klicka på **Clone or download** och välj sedan **Download ZIP**
+1. Klicka på **Code** och välj sedan **Download ZIP**
 2. Öppna index.html i din editor (ex. Visual Studio Code).
 3. Ändra alla `div`-element till element som beskriver vad innehållet kommer vara inuti taggarna. Använder taggar som ex. `main`, `section`, `nav`, `article`.
 Alla `div`-element är nödvändigtvis inte i rätt ordning.
